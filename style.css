@@ -83,6 +83,11 @@ button{
     border: none;
     height: 40px;
     width: 120px;
-  
-    
 }
+button:hover{
+    background-color:transparent ;
+    border: solid 1px white;
+    cursor: pointer;
+    color: white;
+}
+
